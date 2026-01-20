@@ -1,7 +1,7 @@
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 const warning = document.getElementById("char-warning");
-const maxLength = 20;
+const maxLength = 30;
 
 
 function addTask(){
